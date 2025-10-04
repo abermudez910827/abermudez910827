@@ -43,7 +43,7 @@ Buscando aplicar habilidades probadas y conocimientos sólidos en una posición 
 ## 📱 Contacto
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alejandro_Bermúdez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-bdez/)](https://www.linkedin.com/in/alejandro-bdez/)
-[![Gmail Badge](https://img.shields.io/badge/-abermudez910827-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abermudez910827)](mailto:abermudez910827)
+[![Gmail Badge](https://img.shields.io/badge/-abermudez@engineer.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abermudez@engineer.com)](mailto:abermudez@engineer.com)
  
 
  <!-- Conecct section: END -->
